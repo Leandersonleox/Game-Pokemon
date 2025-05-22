@@ -42,19 +42,19 @@ body {
 }
 
 #zubat {
-    
+    visibility: hidden; 
     right: 90px;
     top: 650px;
 }
 
 #pikachu {
-
+    visibility: hidden;
     right: 600px;
     top: 330px;
 }
 
 #charmander {
-   
+    visibility: hidden;
     width: 65px;
     right: 175px;
     top: 55px;
